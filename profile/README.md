@@ -37,38 +37,7 @@ I'm a dedicated developer who lives and breathes code. My journey spans over 12 
 
 ## 🔥 Complete Development Ecosystem
 
-<div align="center">
-  
-### 📊 Multi-Account Development Overview
-  
-</div>
 
-<table align="center">
-<tr>
-<td align="center">
-<strong>🏠 Main Account (@jlucus)</strong><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=jlucus&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="jlucus Stats" />
-</td>
-<td align="center">
-<strong>🎯 Experimental Account (@4eckd)</strong><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=4eckd&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="4eckd Stats" />
-</td>
-</tr>
-</table>
-
-<div align="center">
-  
-### 🌟 Primary Account Activity
-  
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jlucus&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucus&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ## 🌐 Development Ecosystem
 
@@ -85,10 +54,7 @@ My development work spans across two complementary accounts, each serving a dist
 
 ## 🌟 Featured Projects
 
-<!-- Add your best repositories here -->
-```
-🚧 Check out my pinned repositories below for some of my best work! 🚧
-```
+Check Back Later Fam. 
 
 ## 📈 Combined Impact
 
@@ -118,12 +84,5 @@ I'm always excited to connect with fellow developers, creators, and innovators. 
 ---
 
 <div align="center">
-  <i>💼 "Professional excellence meets experimental innovation"</i><br/>
-  <br/>
-  <strong>Leading the jlucus development ecosystem</strong><br/>
-  <em>Building production solutions while pushing the boundaries of what's possible</em>
-</div>
-
-<div align="center">
-  <i>⭐️ From [jlucus](https://github.com/jlucus) - Thanks for stopping by!</i>
+  <i>⭐️ From [jlucus](https://github.com/jlucus) - Thanks for sto</i>
 </div>
