@@ -84,5 +84,5 @@ I'm always excited to connect with fellow developers, creators, and innovators. 
 ---
 
 <div align="center">
-  <i>⭐️ From [jlucus](https://github.com/jlucus) - Thanks for sto</i>
+  <i>⭐️ From @jlucus - Thanks for stopping by.</i>
 </div>
