@@ -106,7 +106,14 @@
 - **Impact**: Backend session validation mishandling led to account takeovers using phished cookies on an online gambling startup
 - **Severity**: 🔴CRITICAL - Improper Session Handling
 - **Potential Bounty**: $10,000+
-- **Status**: ✅ Fixed
+- **Status**: ✅ Fixed | THRILL.COM
+
+🥈 **Flawed Authentication Business Logic** *(December 2025)*
+- **Impact**: Flawed logic in an online casino startup left them open to improper authentication in sales process, leading to possible number of issues affecting balances.
+- **Severity**: 🔴CRITICAL - Flawed Authentication Business Logic
+- **Potential Bounty**: $10,000+
+- **Status**: ✅ Fixed | THRILL.COM
+
 
 ### 💰 **Estimated Total Bounty Value: $205,000 - $425,000**
 
@@ -153,7 +160,22 @@ pie title Contribution Distribution
 
 <div align="center">
 
-### Security Research Tools
+### MY CUSTOM TOOLING:
+
+Toolkit designed to exceed blockchain forensics standards and combat the ever present "Dan" scam casino operators with other commercial or business applicable uses:
+
+![FUCKIN-DANS-ASS](https://img.shields.io/badge/FuckDa-nsAss-FFFFFF?style=for-the-badge&logo=bomb&logoColor=white)
+
+Non-comprehensive Fuzzing and other testing for API endpoints of websites:
+
+![CAYC-BAKE](https://img.shields.io/badge/CAYC-BAKE-FF1134?style=for-the-badge&logo=&logoColor=white)
+
+</div>
+
+<div align="center">
+ 
+ ### COMMERCIAL TOOLING:
+ 
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
@@ -182,16 +204,16 @@ pie title Contribution Distribution
 <tr>
 <td width="50%">
 
-### 🎰 BonusAlerts (GambaReload)
+### 🎰 GambaReload.com
 **Status**: 🔨 Building MVP
 **Launch**: December 2025
-**Tech**: Telegram Bot, Microservices
+**Tech**: Custom
 **Impact**: Democratizing casino bonus access
 
 </td>
 <td width="50%">
 
-### 🔥 Fused Gaming
+### 🔥 VLN.GG
 **Status**: ✅ Active Development
 **Tech**: Web3, iGaming, Smart Contracts, DevOps
 **Impact**: Securing the web with best practices
