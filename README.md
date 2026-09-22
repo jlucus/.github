@@ -1,19 +1,14 @@
-# JESSE LUCUS 
-Please, call me J. 👋 
+# Jesse Lucus
 
-### Product Engineer · Systems Builder · Security Researcher
+Please, call me J. 👋
 
-`BUILD → BREAK → HARDEN → SHIP`
+## Product Engineer · Systems Builder · Security Researcher
 
-[![GitHub](https://img.shields.io/badge/GitHub-@jlucus-181717?style=flat-square&logo=github)](https://github.com/jlucus)
-[![Lab](https://img.shields.io/badge/Lab-@4eckd-8B5CF6?style=flat-square&logo=github)](https://github.com/4eckd)
-[![Production](https://img.shields.io/badge/Production-Fused_Gaming-6366F1?style=flat-square&logo=github)](https://github.com/Fused-Gaming)
+```
+BUILD → BREAK → HARDEN → SHIP
+```
 
-</div>
-
----
-
-## `$ whoami`
+## $ whoami
 
 I design, build, break, harden, and ship software systems.
 
@@ -27,26 +22,82 @@ My work spans:
 - Automation
 - Production SaaS
 
----
+### Skills Overview
+
+| Capability | Level |
+|---|---|
+| WEB3 BUILDER | ███████████████████ |
+| DESIGN SYSTEMS | ██████████████████░ |
+| AI AGENTS | ███████████████████ |
+| SECURITY RESEARCH | █████████████████░░ |
+| OPEN SOURCED | ████████████████░░░ |
+| ORCHESTRATION | ██████████████████░ |
+| CI/CD & DEVOPS | ███████████████████ |
 
 ## Capability OS
 
-| Capability | Proof |
+| Capability | Concrete Proof |
 |---|---|
-| AI / Agents | SyncPulse, MCP tooling, skills, orchestration |
-| Product Engineering | JobTura, Queen, Underworld Writer |
-| Developer Tools | `@h4shed/*`, automation, release tooling |
-| Security | Vulnerability research, audits, testing |
-| Web3 | Solidity, protocol work, transaction systems |
-| Infrastructure | AWS, Docker, Vercel, Cloudflare |
-| Testing | Playwright, Vitest, E2E automation |
-| Design Systems | Product UI, design contracts, component systems |
+| **AI / Agents** | **SyncPulse** — MCP tooling, skills, orchestration, agent routing, automation workflows |
+| **Product Engineering** | **JobTura** — recruiting SaaS with async video, pipelines, analytics, RBAC, identity verification, storage abstraction |
+| **Legal Tech** | **Queen** — legal workflow platform with role-based dashboards, filing flows, Gmail/Drive/NextRequest integrations |
+| **Developer Tools** | **`@h4shed/*`** — release tooling, hardening utilities, automation packages, developer workflow tooling |
+| **Security** | **VLN Security / Cleanroom / Rock Hardened** — vulnerability research, audits, compliance tooling, hardening, testing |
+| **Web3** | **ACE Protocol / Dtravel** — Solidity, payment settlement concepts, transaction systems, DeFi architecture |
+| **Infrastructure** | **JobTura / SyncPulse** — AWS, Docker, Vercel, Cloudflare, storage backends, deployment architecture |
+| **Testing** | **JobTura** — Playwright, Vitest, 50+ E2E cases, screenshot validation, regression coverage |
+| **Design Systems** | **JobTura Design Contract** — reusable product UI, branded components, accessibility, responsive system patterns |
+| **Media / Automation** | **Underworld Writer** — configurable podcast generation pipelines, Modal.com integration, branded content automation |
 
----
+## Project Proof
+
+### JobTura
+- Async video interviewing
+- Recruitment pipelines + analytics
+- RBAC + admin controls
+- Identity verification
+- Multi-backend storage
+- Playwright E2E coverage
+- Oakland RFP compliance mapping
+
+### Queen
+- Legal workflow automation
+- Attorney / admin / subscriber roles
+- Filing and case-flow libraries
+- Gmail + Drive integrations
+- Evidence and timeline management
+
+### SyncPulse
+- MCP server architecture
+- Skill orchestration
+- Agent routing
+- Workflow automation
+- Multi-package developer ecosystem
+
+### Underworld Writer
+- Podcast generation infrastructure
+- Modal.com compute integration
+- Configurable brand scaffolding
+- Voice / episode generation workflows
+- Reusable media automation
+
+### ACE Protocol
+- Proof-of-Play concepts
+- Payment settlement architecture
+- Transaction receipts
+- Side-bet systems
+- Web3 protocol design
+
+### @h4shed/*
+- Release tooling
+- Security hardening
+- Automation utilities
+- Developer workflow packages
+- Open-source contribution tooling
 
 ## Identity Graph
 
-```text
+```
                     @jlucus
                     BUILDER
                        │
@@ -57,32 +108,43 @@ My work spans:
                        ▼
                  @Fused-Gaming
                   PRODUCTION
+┌─────────────────────┬─────────────────────┬─────────────────────┐
+│        BUILD        │      RESEARCH       │        SHIP         │
+├─────────────────────┼─────────────────────┼─────────────────────┤
+│       @jlucus       │       @4eckd        │    @Fused-Gaming    │
+│                     │                     │                     │
+│ JobTura             │ SyncPulse           │ Production SaaS     │
+│ Queen               │ Security Research   │ Client Systems      │
+│ Underworld Writer   │ @h4shed/*           │ Deployments         │
+│ ACE Protocol        │ MCP Experiments     │ Infrastructure      │
+└─────────────────────┴─────────────────────┴─────────────────────┘
 ```
 
 ## 🤝 Let's Connect
 
-I'm always excited to connect with fellow developers, creators, and innovators. Whether you want to collaborate on a project, discuss the latest in web3, or just chat about the intersection of media and technology, I'm here for it!
+I'm always excited to connect with fellow developers, creators, and innovators.
 
-- 🧪 **Experimental Account**: [@4eckd](https://github.com/4eckd)
-- 🌐 **Portfolio**: [jlucus.dev](https://jlucus.dev)
-- 💼 **LinkedIn**: [Connect with me](https://linkedin.com/in/supitsj)
-- 📧 **Email**: [hello@jlucus.dev](mailto:hello@jlucus.dev)
-- 🐦 **Telegram**: [@supitsj](https://t.me/supitsj)
+Whether you want to collaborate on a project, discuss Web3, explore developer tooling, or talk about the intersection of media and technology, I'm here for it.
+
+- 🌐 **Portfolio:** [jlucus.dev](https://jlucus.dev)
+- 💼 **LinkedIn:** [linkedin.com/in/supitsj](https://linkedin.com/in/supitsj)
+- 📧 **Email:** [hello@jlucus.dev](mailto:hello@jlucus.dev)
+- 🐦 **Telegram(🔥fastest reply):** [@supitsj](https://t.me/supitsj)
 
 ## 💭 Philosophy
 
-*"The best way to predict the future is to create it."*
-I believe in building solutions that don't just solve today's problems, but anticipate tomorrow's opportunities. Every project is a chance to make the digital world a little more amazing.
+> "The best way to predict the future is to create it."
+
+Where others see problems, I only see opportunities. Every project is a chance to make the digital world a little more amazing.
 
 ---
 
-<div align="center">
-  <i>💼 "Professional excellence meets experimental innovation"</i><br/>
-  <br/>
-  <strong>Leading the jlucus development ecosystem</strong><br/>
-  <em>Building production solutions while pushing the boundaries of what's possible</em>
-</div>
+## Closing
 
-<div align="center">
-  <i>⭐️ From [jlucus](https://github.com/jlucus) - Thanks for stopping by!</i>
-</div>
+💼 Excellent engineering meets professional design.
+
+Leading the https://github.com/Fused-Gaming development ecosystem
+
+Building production solutions while pushing the boundaries of what's possible.
+
+⭐️ Thanks for stopping by!
